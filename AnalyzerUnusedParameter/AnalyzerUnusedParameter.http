@@ -1,0 +1,6 @@
+@AnalyzerUnusedParameter_HostAddress = http://localhost:5190
+
+GET {{AnalyzerUnusedParameter_HostAddress}}/weatherforecast/test%20value
+Accept: application/json
+
+###
